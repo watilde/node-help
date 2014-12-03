@@ -1,6 +1,6 @@
 {
   "name": "help",
-  "version": "0.9.0",
+  "version": "0.1.0",
   "description": "Supports display npm run scripts description",
   "main": "index.js",
   "scripts": {
